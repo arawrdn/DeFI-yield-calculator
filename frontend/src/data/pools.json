@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "ETH Staking",
+    "apr": 5.2
+  },
+  {
+    "id": 2,
+    "name": "USDC Lending",
+    "apr": 3.8
+  },
+  {
+    "id": 3,
+    "name": "DAI Yield Farm",
+    "apr": 8.5
+  }
+]
